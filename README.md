@@ -1,16 +1,5 @@
-# Node js entity node starter
+# Spatial API
 
-scale your NodeJs back-end as fast
+## simple spatial api usngi postgis extinstion ,
 
-### Folder architecture
-
-- `/src` - All the source code get written here
-  - `apps/` - Contains each individual service
-  - `prisma/` - Contains the DB related service
-    - `migrations/` - DB migration files
-    - `prisma.service.ts` - open DB connection
-    - `schema.prisma` - DB schema
-  - `utils/` - utilities that are used by the app
-  - `app.ts` - set the node js middleware and configurations
-  - `server.ts` - Contains the logic for running the server
-  - `routers.ts` - Contains the routes handling
+### with functions to enter polgyons and langs,lats to check them if they are withen the polygon and much more functions
